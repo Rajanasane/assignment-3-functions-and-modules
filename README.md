@@ -43,3 +43,4 @@ For example, if the user enters `25`, the output should be:
 Square root of 25: 5.0 Natural logarithm of 25: 3.2188758248682006 Sine of 25: -0.13235175009777303
 
 ```
+for more : https://drive.google.com/drive/folders/1NtIUcxZDHEhfcjSfYEYCQQ95sS_0AVbX?usp=drive_link
